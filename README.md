@@ -1,1 +1,1 @@
-# Intune
+# Intune repository of usefull scripts
